@@ -63,7 +63,6 @@ Value: YOUR_SERPAPI_KEY
 You can get a free API key from:
 https://serpapi.com/
 
-Important: Do NOT upload your real API key to GitHub.
 
 ## Project Structure
 
